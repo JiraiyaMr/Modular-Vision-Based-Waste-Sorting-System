@@ -1,6 +1,5 @@
 # Development Timeline
 
-Translated from the dated comments in [Core/Src/main.c](../Core/Src/main.c), lines 16–24. These are the developer's historical notes, rather than dates inferred from Git upload history.
 
 | Date | Recorded milestone | Source context |
 | --- | --- | --- |
