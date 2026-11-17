@@ -1,6 +1,5 @@
 # Archived Configuration and Engineering Follow-Up
 
-These observations describe the uploaded source, not measured behavior of every historical prototype. Firmware has not been changed by the documentation update.
 
 | Source | Observation | Follow-up before reproducing the demonstration |
 | --- | --- | --- |
@@ -12,5 +11,4 @@ These observations describe the uploaded source, not measured behavior of every 
 | Application/laser_distance.c | A fixed-length blocking receive is followed by string scanning and atoi(). | Check packet boundaries, termination, units, and bounds on the actual sensor stream. |
 | Application/usart_screen.c | LCD_task exists but is not started by the archived RTOS configuration. | Check the display initialization and page-state path used in the working prototype. |
 
-The category-dependent mechanism, host handshake, and mechanical calibration should be validated together when a working revision is identified. Historical integration milestones are retained separately in the development timeline.
 
