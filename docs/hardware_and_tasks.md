@@ -1,5 +1,12 @@
 # Hardware and Task Map
 
+## Hardware interconnection diagram
+
+![Waste-sorting hardware interconnections](../figures/hardware_en.svg)
+
+English rendering of the project hardware diagram, showing power distribution, motors, sensing, and host communication.
+
+
 ## Configuration recorded in source
 
 | Item | Recorded configuration |
