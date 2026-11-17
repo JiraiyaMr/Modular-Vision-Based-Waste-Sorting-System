@@ -29,7 +29,6 @@ Motor models, mechanics, power supplies, gear ratios, physical connector assignm
 | laser_task | Distance reception | Blocking UART receive, then osDelay(2) |
 | compress_task | Repeated actuator motion and feedback | Busy waits and HAL_Delay(2000) inside control |
 
-These delays are scheduling requests, not measured execution periods. LCD_task is present in source but is not created in MX_FREERTOS_Init().
 
 USB initialization appears both before the scheduler in main.c and in StartDefaultTask(). The laser task shares the PC task handle variable in the archived startup; see the snapshot notes.
 
