@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1100" viewBox="0 0 1440 1100">
+<title>Waste-sorting system architecture</title>
+<rect width="100%" height="100%" fill="white"/>
+<polyline points="25,20 455,20 455,335 25,335 25,20" fill="none" stroke="#263238" stroke-width="3" stroke-dasharray="10 8"/>
+<polyline points="475,20 1410,20 1410,1070 25,1070 25,355 475,355 475,20" fill="none" stroke="#263238" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="225" y="47.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#263238">PyCharm</text>
+<text x="940" y="51.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#263238">STM32CubeMX</text>
+<text x="940" y="85.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#263238">Keil 5</text>
+<text x="125" y="100.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">YOLO environment</text>
+<polyline points="125,120 125,143" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="125,143 120.5489543670442,131.85602437308188 129.45104563295578,131.85602437308188" fill="#263238"/>
+<text x="125" y="162.75" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">CUDA / cuDNN</text>
+<text x="125" y="185.25" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">Python</text>
+<polyline points="125,202 125,229" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="125,229 120.5489543670442,217.85602437308188 129.45104563295578,217.85602437308188" fill="#263238"/>
+<text x="125" y="253.75" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#263238">YOLO dependencies</text>
+<text x="125" y="275.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#263238">OpenCV</text>
+<text x="125" y="296.25" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#263238">Pandas / NumPy</text>
+<rect x="280" y="86" width="150" height="55" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="355.0" y="113.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">Dataset creation</text>
+<polyline points="355,141 355,167" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="355,167 350.5489543670442,155.85602437308188 359.4510456329558,155.85602437308188" fill="#263238"/>
+<rect x="280" y="167" width="150" height="55" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="355.0" y="194.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">Model training</text>
+<polyline points="355,222 355,250" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="355,250 350.5489543670442,238.85602437308188 359.4510456329558,238.85602437308188" fill="#263238"/>
+<rect x="280" y="250" width="150" height="55" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="355.0" y="277.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">Recognition</text>
+<polyline points="280,277 230,277 230,548 272,548" fill="none" stroke="#263238" stroke-width="2" stroke-dasharray="10 8"/>
+<polygon points="272,548 260.8560243730819,552.4510456329558 260.8560243730819,543.5489543670442" fill="#263238"/>
+<rect x="245" y="375" width="210" height="225" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="350.0" y="487.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238"></text>
+<text x="350" y="396.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#263238">Devices</text>
+<text x="350" y="453.25" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="19" font-weight="400" fill="#263238">STP23L</text>
+<text x="350" y="477.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="19" font-weight="400" fill="#263238">HC-SR04</text>
+<text x="350" y="500.75" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="19" font-weight="400" fill="#263238">Motors</text>
+<polyline points="283,520 433,520 433,575 283,575 283,520" fill="none" stroke="#263238" stroke-width="2" stroke-dasharray="10 8"/>
+<text x="358.0" y="547.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">Manifold 2-G</text>
+<polyline points="280,277 230,277 230,548 283,548" fill="none" stroke="#263238" stroke-width="2" stroke-dasharray="10 8"/>
+<polygon points="283,548 271.8560243730819,552.4510456329558 271.8560243730819,543.5489543670442" fill="#263238"/>
+<rect x="555" y="80" width="200" height="300" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="655.0" y="230.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238"></text>
+<text x="655" y="104.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#263238">Peripherals</text>
+<text x="655" y="146.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="19" font-weight="400" fill="#263238">GPIO</text>
+<text x="655" y="188.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="19" font-weight="400" fill="#263238">USART</text>
+<text x="655" y="230.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="19" font-weight="400" fill="#263238">CAN</text>
+<text x="655" y="272.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="19" font-weight="400" fill="#263238">TIM</text>
+<text x="655" y="314.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="19" font-weight="400" fill="#263238">PWM</text>
+<text x="655" y="354.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="19" font-weight="400" fill="#263238">USB</text>
+<rect x="1040" y="100" width="115" height="45" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="1097.5" y="122.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#263238">CAN1 ISR</text>
+<polyline points="1097,145 1097,174 1015,174 1015,200" fill="none" stroke="#263238" stroke-width="2"/>
+<polyline points="1097,174 1190,174 1190,200" fill="none" stroke="#263238" stroke-width="2"/>
+<rect x="940" y="200" width="150" height="65" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="1015.0" y="220.625" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#263238">M3508 motor</text>
+<text x="1015.0" y="244.375" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#263238">feedback</text>
+<rect x="1115" y="200" width="150" height="65" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="1190.0" y="220.625" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#263238">GM6020 motor</text>
+<text x="1190.0" y="244.375" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#263238">feedback</text>
+<rect x="850" y="300" width="160" height="60" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="930.0" y="330.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#263238">USART1 ISR</text>
+<polyline points="1010,330 1050,330" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="1050,330 1038.856024373082,334.4510456329558 1038.856024373082,325.5489543670442" fill="#263238"/>
+<rect x="1050" y="300" width="145" height="60" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="1122.5" y="330.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#263238">STM32F103</text>
+<polyline points="1195,330 1230,330" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="1230,330 1218.856024373082,334.4510456329558 1218.856024373082,325.5489543670442" fill="#263238"/>
+<rect x="1230" y="300" width="140" height="60" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="1300.0" y="330.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#263238">STP23L</text>
+<rect x="565" y="455" width="180" height="75" rx="30" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="655.0" y="492.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#263238">STM32F407</text>
+<polyline points="655,455 655,380" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="655,380 659.4510456329558,391.1439756269181 650.5489543670442,391.1439756269181" fill="#263238"/>
+<polyline points="565,493 455,493" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="455,493 466.1439756269181,488.5489543670442 466.1439756269181,497.4510456329558" fill="#263238"/>
+<rect x="1000" y="455" width="145" height="75" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="1072.5" y="492.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#263238">FreeRTOS</text>
+<polyline points="745,493 1000,493" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="1000,493 988.8560243730818,497.4510456329558 988.8560243730818,488.5489543670442" fill="#263238"/>
+<polyline points="655,530 655,575" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="655,575 650.5489543670442,563.8560243730818 659.4510456329558,563.8560243730818" fill="#263238"/>
+<rect x="580" y="575" width="150" height="43" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="655.0" y="596.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">Enter main()</text>
+<polyline points="655,618 655,651" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="655,651 650.5489543670442,639.8560243730818 659.4510456329558,639.8560243730818" fill="#263238"/>
+<rect x="565" y="651" width="180" height="53" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="655.0" y="677.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">Initialize MCU</text>
+<polyline points="655,704 655,737" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="655,737 650.5489543670442,725.8560243730818 659.4510456329558,725.8560243730818" fill="#263238"/>
+<rect x="555" y="737" width="200" height="70" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="655.0" y="760.75" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">Initialize sensors</text>
+<text x="655.0" y="783.25" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">and controllers</text>
+<polyline points="1072,530 1072,553 830,553 830,582" fill="none" stroke="#263238" stroke-width="2"/>
+<polyline points="1072,553 975,553 975,582" fill="none" stroke="#263238" stroke-width="2"/>
+<polyline points="1072,553 1130,553 1130,582" fill="none" stroke="#263238" stroke-width="2"/>
+<polyline points="1072,553 1290,553 1290,582" fill="none" stroke="#263238" stroke-width="2"/>
+<rect x="765" y="582" width="130" height="47" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="830.0" y="605.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#263238">sort_task</text>
+<polyline points="830.0,629 830.0,665" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="830.0,665 825.5489543670442,653.8560243730818 834.4510456329558,653.8560243730818" fill="#263238"/>
+<rect x="765" y="665" width="130" height="110" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="830.0" y="697.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">Receive waste</text>
+<text x="830.0" y="720.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">category from</text>
+<text x="830.0" y="742.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">the host</text>
+<polyline points="830.0,775 830.0,814" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="830.0,814 825.5489543670442,802.8560243730818 834.4510456329558,802.8560243730818" fill="#263238"/>
+<rect x="765" y="814" width="130" height="132" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="830.0" y="857.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">CAN1: send</text>
+<text x="830.0" y="880.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">GM6020 target</text>
+<text x="830.0" y="902.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">encoder value</text>
+<rect x="910" y="582" width="130" height="47" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="975.0" y="605.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#263238">servo_task</text>
+<polyline points="975.0,629 975.0,665" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="975.0,665 970.5489543670442,653.8560243730818 979.4510456329558,653.8560243730818" fill="#263238"/>
+<rect x="910" y="665" width="130" height="110" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="975.0" y="697.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">Receive the</text>
+<text x="975.0" y="720.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">completion flag</text>
+<text x="975.0" y="742.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">from sort_task</text>
+<polyline points="975.0,775 975.0,814" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="975.0,814 970.5489543670442,802.8560243730818 979.4510456329558,802.8560243730818" fill="#263238"/>
+<rect x="910" y="814" width="130" height="132" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="975.0" y="857.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">PWM: set</text>
+<text x="975.0" y="880.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">servo duty</text>
+<text x="975.0" y="902.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">cycle</text>
+<rect x="1060" y="582" width="140" height="47" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="1130.0" y="605.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#263238">belt_task</text>
+<polyline points="1130.0,629 1130.0,665" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="1130.0,665 1125.5489543670442,653.8560243730818 1134.4510456329558,653.8560243730818" fill="#263238"/>
+<rect x="1060" y="665" width="140" height="110" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="1130.0" y="697.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">Detect object</text>
+<text x="1130.0" y="720.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">passage using</text>
+<text x="1130.0" y="742.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">STP23L distance</text>
+<polyline points="1130.0,775 1130.0,814" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="1130.0,814 1125.5489543670442,802.8560243730818 1134.4510456329558,802.8560243730818" fill="#263238"/>
+<rect x="1060" y="814" width="140" height="132" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="1130.0" y="857.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">CAN1: send</text>
+<text x="1130.0" y="880.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">M3508 target</text>
+<text x="1130.0" y="902.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">motor speeds</text>
+<rect x="1220" y="582" width="160" height="47" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="1300.0" y="605.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#263238">HCSR04_task</text>
+<polyline points="1300.0,629 1300.0,665" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="1300.0,665 1295.5489543670442,653.8560243730818 1304.4510456329558,653.8560243730818" fill="#263238"/>
+<rect x="1220" y="665" width="160" height="110" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="1300.0" y="697.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">Read ultrasonic</text>
+<text x="1300.0" y="720.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">sensor data</text>
+<text x="1300.0" y="742.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">through GPIO</text>
+<polyline points="1300.0,775 1300.0,814" fill="none" stroke="#263238" stroke-width="2"/>
+<polygon points="1300.0,814 1295.5489543670442,802.8560243730818 1304.4510456329558,802.8560243730818" fill="#263238"/>
+<rect x="1220" y="814" width="160" height="132" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="1300.0" y="846.25" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">STM32F407:</text>
+<text x="1300.0" y="868.75" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">compare distance</text>
+<text x="1300.0" y="891.25" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">with the preset</text>
+<text x="1300.0" y="913.75" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238">threshold</text>
+<rect x="580" y="970" width="215" height="85" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="687.5" y="1012.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238"></text>
+<text x="687" y="989.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#263238">Controller</text>
+<text x="687" y="1027.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#263238">PID</text>
+<rect x="245" y="850" width="210" height="75" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="350.0" y="887.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263238"></text>
+<text x="350" y="869.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#263238">Algorithm</text>
+<text x="350" y="902.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#263238">CRC</text>
+<polyline points="245,428 115,428 115,1013 580,1013" fill="none" stroke="#263238" stroke-width="2"/>
+<polyline points="245,477 185,477 185,888 245,888" fill="none" stroke="#263238" stroke-width="2"/>
+<polyline points="795,1013 1130,1013 1130,946" fill="none" stroke="#263238" stroke-width="2"/>
+</svg>

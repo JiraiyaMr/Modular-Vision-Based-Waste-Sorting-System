@@ -21,21 +21,9 @@ The vision model, training pipeline, and host inference application are separate
 
 ## Architecture
 
-```mermaid
-flowchart TD
-    H["Host recognition system"] --> U["USB category reception"]
-    U --> S["Sorter and release sequence"]
-    L["UART distance sensor"] --> B["Conveyor control"]
-    B --> C["CAN motor interface"]
-    S --> C
-    S --> P["PWM release servo"]
-    S --> D["Serial display"]
-    F["CAN motor feedback"] --> B
-    F --> S
-    X["Compression task"] --> A["Emm V5 actuator"]
-```
+![Waste-sorting system architecture](figures/architecture_en.svg)
 
-The compression task is created independently of the classification path. The diagram summarizes source-level interfaces; it does not imply that compression is synchronized with sorting.
+English rendering of the project design diagram. For the task configuration in the archived firmware, see the [hardware and task map](docs/hardware_and_tasks.md).
 
 ## Start reading
 
