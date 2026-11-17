@@ -1,0 +1,24 @@
+# Keil / compiler products
+*.o
+*.obj
+*.axf
+*.hex
+*.bin
+*.map
+*.crf
+*.d
+*.dep
+*.lnp
+*.lst
+*.build_log.htm
+*.uvguix.*
+*.uvoptx
+*.Bak
+# Local tools and editors
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+Thumbs.db
+Desktop.ini
+
