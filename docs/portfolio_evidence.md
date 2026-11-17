@@ -2,6 +2,12 @@
 
 This repository is the embedded-controller part of the waste-sorting project. A strong demonstration can connect an incoming category command, the transport / sorting action, and the resulting physical placement.
 
+## Sorting workflow
+
+![Multi-item waste-sorting workflow](../figures/sorting_workflow_en.svg)
+
+English rendering of the project workflow: item transport and detection, image-based classification, category transmission, and the discharge / bin-full detection branches.
+
 ## Evidence to attach
 
 | Item | Useful content |

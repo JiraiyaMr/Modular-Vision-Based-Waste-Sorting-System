@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1840" height="980" viewBox="0 0 1840 980">
+<title>Multi-item waste-sorting workflow</title>
+<rect width="100%" height="100%" fill="white"/>
+<rect x="60" y="290" width="280" height="150" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="200.0" y="347.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#263238">Multiple items</text>
+<text x="200.0" y="382.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#263238">introduced</text>
+<rect x="470" y="290" width="300" height="150" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="620.0" y="347.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#263238">Conveyor transports</text>
+<text x="620.0" y="382.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#263238">the waste</text>
+<rect x="990" y="290" width="290" height="150" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="1135.0" y="365.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#263238">Single item</text>
+<rect x="1470" y="290" width="300" height="150" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="1620.0" y="347.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#263238">Camera frame</text>
+<text x="1620.0" y="382.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#263238">capture</text>
+<polyline points="340,365 470,365" fill="none" stroke="#263238" stroke-width="3"/>
+<polygon points="470,365 458.8560243730819,369.4510456329558 458.8560243730819,360.5489543670442" fill="#263238"/>
+<polyline points="770,365 990,365" fill="none" stroke="#263238" stroke-width="3"/>
+<polygon points="990,365 978.8560243730818,369.4510456329558 978.8560243730818,360.5489543670442" fill="#263238"/>
+<text x="880" y="249.25" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="22" font-weight="400" fill="#263238">Laser ranging:</text>
+<text x="880" y="276.75" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="22" font-weight="400" fill="#263238">item passage detection</text>
+<polyline points="1280,365 1470,365" fill="none" stroke="#263238" stroke-width="3"/>
+<polygon points="1470,365 1458.856024373082,369.4510456329558 1458.856024373082,360.5489543670442" fill="#263238"/>
+<ellipse cx="620" cy="107.5" rx="145" ry="72.5" fill="white" stroke="#263238" stroke-width="3"/>
+<text x="620" y="90.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#263238">Driven by</text>
+<text x="620" y="125.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#263238">M3508 motors</text>
+<polyline points="620,180 620,290" fill="none" stroke="#263238" stroke-width="3"/>
+<polygon points="620,290 615.5489543670442,278.8560243730819 624.4510456329558,278.8560243730819" fill="#263238"/>
+<rect x="1460" y="585" width="330" height="185" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="1625.0" y="642.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#263238">Waste classification</text>
+<text x="1625.0" y="677.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#263238">using the</text>
+<text x="1625.0" y="712.5" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#263238">trained model</text>
+<polyline points="1620,440 1620,585" fill="none" stroke="#263238" stroke-width="3"/>
+<polygon points="1620,585 1615.5489543670442,573.8560243730818 1624.4510456329558,573.8560243730818" fill="#263238"/>
+<rect x="870" y="625" width="390" height="160" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="1065.0" y="673.75" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#263238">Host sends the item category</text>
+<text x="1065.0" y="705.0" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#263238">to the main controller</text>
+<text x="1065.0" y="736.25" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#263238">via a USB virtual serial port</text>
+<polyline points="1460,690 1260,690" fill="none" stroke="#263238" stroke-width="3"/>
+<polygon points="1260,690 1271.143975626918,685.5489543670442 1271.143975626918,694.4510456329558" fill="#263238"/>
+<rect x="60" y="570" width="390" height="165" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="255.0" y="635.625" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#263238">Hopper discharges waste</text>
+<text x="255.0" y="669.375" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#263238">into the corresponding bin</text>
+<rect x="60" y="820" width="390" height="115" rx="5" fill="white" stroke="#263238" stroke-width="2"/>
+<text x="255.0" y="860.625" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#263238">Bin-full detection</text>
+<text x="255.0" y="894.375" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#263238">and warning</text>
+<polyline points="870,700 710,700 710,652 450,652" fill="none" stroke="#263238" stroke-width="3"/>
+<polygon points="450,652 461.1439756269181,647.5489543670442 461.1439756269181,656.4510456329558" fill="#263238"/>
+<polyline points="710,700 710,877 450,877" fill="none" stroke="#263238" stroke-width="3"/>
+<polygon points="450,877 461.1439756269181,872.5489543670442 461.1439756269181,881.4510456329558" fill="#263238"/>
+</svg>
