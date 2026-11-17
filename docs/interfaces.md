@@ -13,8 +13,6 @@ The sorting task reads UserRxBufferFS[0]. The USB CDC receive callback also copi
 
 Category names are evidenced by the strings in Application/usart_screen.c. They are distinct from the serial display's separate page identifiers.
 
-Application/pc_task.c also contains a framed protocol with CRC support and legacy robot-oriented payload fields. Treat it as a separate retained communication component; its presence is not proof that the host used that framed protocol for category commands.
-
 ## Embedded actuation
 
 - Conveyor and rotary-motor feedback are decoded in Application/bsp_can.c.
