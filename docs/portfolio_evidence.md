@@ -22,3 +22,9 @@ No photograph, video, test dataset, classification benchmark, or individual auth
 
 The embedded design and integration work should be distinguished from the host-side recognition model and from vendor / shared communication libraries. The developer's dated main.c notes provide a useful chronology, while a personal contribution statement should name the actual modules and work performed.
 
+
+## Video recordings
+
+| Demonstration | Playback | Repository file |
+| --- | --- | --- |
+| System operation | [Watch video](https://jiraiyamr.github.io/assets/videos/waste-sorting/operation.mp4) | [MP4](../media/videos/operation.mp4) |

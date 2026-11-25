@@ -5,6 +5,14 @@ STM32 firmware for the embedded actuation and device-integration layer of a modu
 **Platform:** STM32F407 · FreeRTOS / CMSIS-RTOS · STM32 HAL · CAN · USB CDC · UART · PWM  
 **Development log:** October 2024–February 2025, recorded in [main.c](Core/Src/main.c).
 
+## Demonstration videos
+
+| Demonstration | Playback | Repository file |
+| --- | --- | --- |
+| System operation | [Watch video](https://jiraiyamr.github.io/assets/videos/waste-sorting/operation.mp4) | [MP4](media/videos/operation.mp4) |
+
+[View the project on my homepage](https://jiraiyamr.github.io/#projects).
+
 ## System at a glance
 
 | Subsystem | Embedded work represented in this repository |
