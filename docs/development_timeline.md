@@ -12,5 +12,5 @@
 | 2025-02-15 | Added a PC-bound data-transmission component, recorded under sort_motor.c. | Historical note; current snapshot routing should be checked separately |
 | 2025-02-28 | Successful laser-sensor control-board test. | Recorded in the main.c development log |
 
-The timeline describes incremental integration of sensing, communication, transport, sorting, and user-interface functions. It does not establish a measured end-to-end sorting success rate.
+The timeline describes incremental integration of sensing, communication, transport, sorting, and user-interface functions. 
 
