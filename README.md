@@ -50,11 +50,9 @@ English rendering of the project design diagram. For the task configuration in t
 
 - [Development timeline](docs/development_timeline.md)
 - [Hardware and task map](docs/hardware_and_tasks.md)
-- [Build and reproduction](docs/build.md)
 - [Communication and category mapping](docs/interfaces.md)
 - [Archived configuration and engineering follow-up](docs/snapshot_notes.md)
 - [Demonstration and contribution evidence](docs/portfolio_evidence.md)
-- [Source attribution](THIRD_PARTY_NOTICES.md)
 - [Original project document](readme.docx)
 
 ## Build
