@@ -18,10 +18,6 @@ English rendering of the project workflow: item transport and detection, image-b
 | Measurement record | Trial conditions, sample count, successes / failures and measured cycle-time definition |
 | Personal contribution | Modules implemented, existing libraries integrated, tuning / debugging work and tests personally performed |
 
-No photograph, video, test dataset, classification benchmark, or individual authorship breakdown has been added in this documentation update. Add those when the underlying evidence is available; source inspection alone does not supply measured accuracy or timing.
-
-The embedded design and integration work should be distinguished from the host-side recognition model and from vendor / shared communication libraries. The developer's dated main.c notes provide a useful chronology, while a personal contribution statement should name the actual modules and work performed.
-
 
 ## Video recordings
 
